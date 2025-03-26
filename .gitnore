@@ -1,0 +1,20 @@
+# IDE / Editor settings
+.vscode/
+.vs/
+
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.out
+*.obj
+*.pdb
+
+# Logs / Temp files
+*.log
+*.tmp
+configurationCache
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
